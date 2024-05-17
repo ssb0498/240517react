@@ -1,0 +1,13 @@
+node_modules/
+assets/
+components/
+models/
+pages/
+public/
+styles/
+index.html
+index.jsx
+package.json
+package-lock.json
+vite.config.js
+.DS_Store
