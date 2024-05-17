@@ -1,10 +1,6 @@
 node_modules/
-assets/
-components/
-models/
-pages/
 public/
-styles/
+src/
 index.html
 index.jsx
 package.json
