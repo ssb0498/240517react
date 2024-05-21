@@ -1,9 +1,0 @@
-node_modules/
-public/
-src/
-index.html
-index.jsx
-package.json
-package-lock.json
-vite.config.js
-.DS_Store
